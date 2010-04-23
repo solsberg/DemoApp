@@ -1,0 +1,121 @@
+
+=== Booting ironruby-rack at 4/23/2010 11:38:13 AM
+
+=== Booting ironruby-rack at 4/23/2010 11:39:15 AM
+=> Setting GEM_PATH: 'C:\\IronRuby\\Lib\\ironruby\\gems\\1.8'
+=> Setting RACK_ENV: 'development'
+=> Loading RubyGems
+=> Loading Rack >=1.0.0
+=> Loaded rack-1.0
+=> Application root: 'D:\\Projects\\IronRack\\DemoApp'
+=> Loading Rack application
+=> Rack application loaded (4742 ms)
+
+=== Request started at 4/23/2010 11:39:20 AM
+>>> Request finished (39ms)
+
+=== Request started at 4/23/2010 11:39:20 AM
+
+=== Request started at 4/23/2010 11:39:20 AM
+>>> Request finished (4ms)
+>>> Request finished (5ms)
+
+=== Request started at 4/23/2010 11:39:20 AM
+>>> Request finished (4ms)
+
+=== Request started at 4/23/2010 11:39:23 AM
+>>> Request finished (1425ms)
+
+=== Request started at 4/23/2010 11:39:27 AM
+>>> Request finished (11ms)
+
+=== Request started at 4/23/2010 11:39:27 AM
+
+=== Request started at 4/23/2010 11:39:27 AM
+>>> Request finished (5ms)
+>>> Request finished (4ms)
+
+=== Request started at 4/23/2010 11:39:27 AM
+>>> Request finished (4ms)
+
+=== Booting ironruby-rack at 4/23/2010 4:00:52 PM
+=> Setting GEM_PATH: 'C:\\IronRuby\\Lib\\ironruby\\gems\\1.8'
+=> Setting RACK_ENV: 'development'
+=> Loading RubyGems
+=> Loading Rack >=1.0.0
+
+=== Booting ironruby-rack at 4/23/2010 4:00:58 PM
+=> Setting GEM_PATH: 'C:\\IronRuby\\Lib\\ironruby\\gems\\1.8'
+=> Setting RACK_ENV: 'development'
+=> Loading RubyGems
+=> Loading Rack >=1.0.0
+Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+    mscorlib:0:in `Copy': Source array was not long enough. Check srcIndex and length, and the array's lower bounds. (ArgumentError)
+    	from C:/IronRuby/Lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    	from C:/IronRuby/Lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    	from (eval):0
+    	from IronRuby.Rack:0:in `Require'
+    	from IronRuby.Rack:0:in `InitRack'
+    	from IronRuby.Rack:0:in `.ctor'
+    	from IronRuby.Rack:0:in `GetHandler'
+    	from System.Web:0:in `System.Web.HttpApplication.IExecutionStep.Execute'
+    	from System.Web:0:in `ExecuteStep'
+    	from System.Web:0:in `ResumeSteps'
+    	from System.Web:0:in `BeginProcessRequestNotification'
+    	from System.Web:0:in `ProcessRequestNotificationPrivate'
+    	from System.Web:0:in `ProcessRequestNotificationHelper'
+    	from System.Web:0:in `ProcessRequestNotification'
+    	from System.Web:0:in `MgdIndicateCompletion'
+    	from System.Web:0:in `ProcessRequestNotificationHelper'
+    	from System.Web:0:in `ProcessRequestNotification'
+    
+    
+Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+    mscorlib:0:in `Copy': Source array was not long enough. Check srcIndex and length, and the array's lower bounds. (ArgumentError)
+    	from C:/IronRuby/Lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    	from C:/IronRuby/Lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    	from (eval):0
+    	from IronRuby.Rack:0:in `Require'
+    	from IronRuby.Rack:0:in `InitRack'
+    	from IronRuby.Rack:0:in `.ctor'
+    	from IronRuby.Rack:0:in `GetHandler'
+    	from System.Web:0:in `System.Web.HttpApplication.IExecutionStep.Execute'
+    	from System.Web:0:in `ExecuteStep'
+    	from System.Web:0:in `ResumeSteps'
+    	from System.Web:0:in `BeginProcessRequestNotification'
+    	from System.Web:0:in `ProcessRequestNotificationPrivate'
+    	from System.Web:0:in `ProcessRequestNotificationHelper'
+    	from System.Web:0:in `ProcessRequestNotification'
+    	from System.Web:0:in `MgdIndicateCompletion'
+    	from System.Web:0:in `ProcessRequestNotificationHelper'
+    	from System.Web:0:in `ProcessRequestNotification'
+    
+    
+
+=== Booting ironruby-rack at 4/23/2010 4:49:16 PM
+=> Setting GEM_PATH: 'C:\\IronRuby\\Lib\\ironruby\\gems\\1.8'
+=> Setting RACK_ENV: 'development'
+=> Loading RubyGems
+=> Loading Rack >=1.0.0
+=> Loaded rack-1.0
+=> Application root: 'D:\\Projects\\IronRack\\DemoApp'
+=> Loading Rack application
+=> Rack application loaded (9489 ms)
+
+=== Request started at 4/23/2010 4:49:25 PM
+>>> Request finished (23ms)
+
+=== Request started at 4/23/2010 4:49:25 PM
+
+=== Request started at 4/23/2010 4:49:25 PM
+>>> Request finished (6ms)
+>>> Request finished (4ms)
+
+=== Request started at 4/23/2010 4:49:25 PM
+>>> Request finished (4ms)
+
+=== Request started at 4/23/2010 4:49:25 PM
+>>> Request finished (4ms)
+
+=== Request started at 4/23/2010 4:49:30 PM
+>>> Request finished (1316ms)
